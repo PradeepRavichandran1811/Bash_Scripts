@@ -1,6 +1,6 @@
 #Author: Pradeep Ravichandran
 #! /bin/bash
-NAME="Pradeep Prady Ravichandran"
+read -p "Enter your Name:" NAME
 namearr=($NAME)
 if [ -z "${namearr[2]}" ]; then
         echo "First Name:"${namearr[0]}
