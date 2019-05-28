@@ -12,11 +12,16 @@ Happy Bashing !!
 5.	[factorial.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/factorial.sh) – To find the factorial of a number
 6.	[fibonacci.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/fibonacci.sh) – To find Fibonacci series of a number
 7.	[file_existence.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/file_existence.sh) – Check whether a file exists or not
-8.	[internet_connection.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/internet_connection.sh) – Check internet connection by using ping
-9.	[even_num_within_range.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/even_num_within_range.sh) – To find all even numbers below specified number
-10.	[self_reproducing_script.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/self_reproducing_script.sh) – Script that copies its content to another
-11.	[Simple_Calculator.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/Simple_Calculator.sh) – Calculator that performs basic operations: +, - , * , /
-12.	[names.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/names.sh) – To split out and print First, Middle and Last Names of user.
-13.	[compare2files.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/compare2files.sh) – Compare two files and print out the common lines based on columns.
-14.	[cpumemusage.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/cpumemusage.sh) – Prints out CPU and memory utilization(in KB) of all the running processes along with the user and command.
+8.	[even_num_within_range.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/even_num_within_range.sh) – To find all even numbers below specified number
+9.	[self_reproducing_script.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/self_reproducing_script.sh) – Script that copies its content to another
+10.	[Simple_Calculator.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/Simple_Calculator.sh) – Calculator that performs basic operations: +, - , * , /
+11.	[names.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/names.sh) – To split out and print First, Middle and Last Names of user.
+
+# System Administration
+
+1.	[compare2files.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/compare2files.sh) – Compare two files and print out the common lines based on columns.
+2.	[cpumemusage.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/cpumemusage.sh) – Prints out CPU and memory utilization(in KB) of all the running processes along with the user and command.
+3. [gateway.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/gateway.sh) - Prints out the deafult gateway and network interface by using netstat command.
+4. [remove_old_files.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/remove_old_files.sh) - To remove files that are older than a month. Useful for saving space by deleting older and less frequently used files.
+5. [internet_connection.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/internet_connection.sh) – Check internet connection by using ping
 
