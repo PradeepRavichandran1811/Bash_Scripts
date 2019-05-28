@@ -1,3 +1,5 @@
+# Author: Pradeep Ravichandran
+# Simple Calculator that performs basic operations:Add, Multiply, Divide, Subtract
 #! /bin/bash
 result=0
 a='y'

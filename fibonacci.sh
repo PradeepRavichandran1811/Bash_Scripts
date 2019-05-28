@@ -1,3 +1,4 @@
+# Author:Pradeep Ravichandran
 #! /bin/bash
 read -p "Enter the number" no
 a=1

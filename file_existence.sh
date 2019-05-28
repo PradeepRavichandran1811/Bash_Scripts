@@ -1,3 +1,4 @@
+# Author:Pradeep Ravichandran
 #! /bin/bash
 if [ -f /etc/sudoers ]
 then
