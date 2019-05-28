@@ -2,3 +2,21 @@
 Repository of simple bash scripts for those who are trying to learn Bash Scripting.
 
 Happy Bashing !!
+
+# Getting Started
+
+1.	[Convert_to_Uppercase.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/Convert_to_Uppercase.sh) – Convert lowercase letters to uppercase letters
+2.	[addition_of_two_numbers.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/addition_of_two_numbers.sh) – Perform addition on two numbers
+3.	[alias.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/alias.sh) – Create Alias Names for commands
+4.	[even_number_or_not.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/even_number_or_not.sh) – To check whether a number is even or not
+5.	[factorial.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/factorial.sh) – To find the factorial of a number
+6.	[fibonacci.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/fibonacci.sh) – To find Fibonacci series of a number
+7.	[file_existence.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/file_existence.sh) – Check whether a file exists or not
+8.	[internet_connection.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/internet_connection.sh) – Check internet connection by using ping
+9.	[even_num_within_range.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/internet_connection.sh) – To find all even numbers below specified number
+10.	[self_reproducing_script.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/self_reproducing_script.sh) – Script that copies its content to another
+11.	[Simple_Calculator.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/Simple_Calculator.sh) – Calculator that performs basic operations: +, - , * , /
+12.	[names.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/names.sh) – To split out and print First, Middle and Last Names of user.
+13.	[compare2files.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/names.sh) – Compare two files and print out the common lines based on columns.
+14.	[cpumemusage.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/cpumemusage.sh) – Prints out CPU and memory utilization(in KB) of all the running processes along with the user and command.
+
