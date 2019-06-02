@@ -4,9 +4,7 @@ Repository of simple bash scripts for those who are trying to learn Bash Scripti
 Happy Bashing !!
 
 ![alt text](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/bash.png)
-
-
-[Source]:(https://github.com/odb/official-bash-logo)
+[Source](https://github.com/odb/official-bash-logo)
 
 
 # Getting Started
