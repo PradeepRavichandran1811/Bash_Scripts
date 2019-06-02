@@ -33,4 +33,5 @@ Happy Bashing !!
 5. [internet_connection.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/internet_connection.sh) – Check internet connection by using ping
 6. [log_delete.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/log_delete.sh) - To delete all the logs from /var/log/messages and /var/log/wtmp.
 7. [week_backup.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/week_backup.sh) - To take backup of all the files that have been modified in the last 7 days.
-
+8. [is_root.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/is_root.sh) - To check if you are the root user.
+9. [rename_extensions.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/rename_extensions.sh) - Script that renames extensions of files.
