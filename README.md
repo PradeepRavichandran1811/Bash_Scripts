@@ -3,6 +3,10 @@ Repository of simple bash scripts for those who are trying to learn Bash Scripti
 
 Happy Bashing !!
 
+![alt text](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/bash.png)
+[Source]:(https://github.com/odb/official-bash-logo)
+
+
 # Getting Started
 
 1.	[Convert_to_Uppercase.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/Convert_to_Uppercase.sh) – Convert lowercase letters to uppercase letters
