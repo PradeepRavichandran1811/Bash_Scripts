@@ -21,7 +21,7 @@ Happy Bashing !!
 9.	[self_reproducing_script.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/self_reproducing_script.sh) – Script that copies its content to another
 10.	[Simple_Calculator.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/Simple_Calculator.sh) – Calculator that performs basic operations: +, - , * , /
 11.	[names.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/names.sh) – To split out and print First, Middle and Last Names of user.
-12. [read_N_chars.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/read_N_chars.sh) - Script to read only N number of characters from Userweek_backupput.
+12. [read_N_chars.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/read_N_chars.sh) - Script to read only N number of characters from user input.
 13. [word_frequency.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/word_frequency.sh) - Script to calculate the frequency of every word in a file.
 
 # System Administration
