@@ -1,5 +1,8 @@
 # Author: Pradeep Ravichandran
 #! /bin/bash
+# comm -12 < (sort file1.txt | uniq) < (sort file2.txt | uniq) common on both files
+# comm -13 prints unique lines in file2
+# comm -23 prints unique lines in file1
 file=($(cut -d" " -f 1 f1.txt))
 file1=($(cut -d" " -f 1 f2.txt))
 #echo ${file[@]}
