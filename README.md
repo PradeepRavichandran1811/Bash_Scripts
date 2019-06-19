@@ -35,3 +35,4 @@ Happy Bashing !!
 7. [week_backup.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/week_backup.sh) - To take backup of all the files that have been modified in the last 7 days.
 8. [is_root.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/is_root.sh) - To check if you are the root user.
 9. [rename_extensions.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/rename_extensions.sh) - Script that renames extensions of files.
+9. [logoutput.sh](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/logoutput.sh) - Script that prints out log entries within a particular time range.
