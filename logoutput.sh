@@ -1,3 +1,4 @@
+#Author: Pradeep Ravichandran
 #! /bin/bash
 #Run this script as ./logoutput.sh start_timestamp end_timestamp
 #log is the logfile here
