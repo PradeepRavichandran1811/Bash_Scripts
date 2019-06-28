@@ -2,7 +2,7 @@
 Repository of simple bash scripts for those who are trying to learn Bash Scripting. 
 
 Hey Dudes. 
-Happy Bashing !!
+Happy Bashing !!!!!
 
 ![alt text](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/bash.png)
 
