@@ -1,5 +1,6 @@
 # Bash_Scripts
-Repository of simple bash scripts for those who are trying to learn Bash Scripting.
+Repository of simple bash scripts for those who are trying to learn Bash Scripting. 
+Thank you for using !!
 
 Happy Bashing !!
 
