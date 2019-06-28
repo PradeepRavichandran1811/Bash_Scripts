@@ -1,7 +1,5 @@
 # Bash_Scripts
 Repository of simple bash scripts for those who are trying to learn Bash Scripting. 
-Thank you for using !!
-
 Happy Bashing !!
 
 ![alt text](https://github.com/PradeepRavichandran1811/Bash_Scripts/blob/master/bash.png)
